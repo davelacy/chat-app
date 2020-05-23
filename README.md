@@ -12,5 +12,5 @@
 
 ### Notes
 - I spent a good bit of time on the look / design trying to get something that feels familiar (like Mac Messenger). I found a design close to what I had in mind on Codepen.io and made customizations to that.
-- This app could of course use some more refactoring given more time. It could make use of bootstrap react components more too.
-- This app needs more tests. Ideally, test coverage would be >90%. Tests are very important for any application but this isn't going to production and time is a factor. I spent som etime on testing websockets as well but admittedly ran into some issues
+- This app could of course use some more refactoring given more time. It could make more use of bootstrap react components too.
+- This app needs more tests. Ideally, test coverage would be >90%. Tests are very important for any application but this isn't going to production and time is a factor. I spent some time on testing websockets as well but admittedly ran into some issues; such testing is tricky.
