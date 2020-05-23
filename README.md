@@ -6,7 +6,7 @@
 2. `cd chat-app`
 3. `yarn` or `npm install`
 4. `yarn build` or `npm run build`
-5. `serve -s build` or `npm run build`
+5. `serve -s build`
 6. Click the link to open the app [http://localhost:5000](http://localhost:5000) 
 7. Open in another browser window to create another user and exchange messages
 
